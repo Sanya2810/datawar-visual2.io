@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Parallel Sets</title>
+<link rel="stylesheet" type="text/css" href="./parallel-sets/inspector.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<body>
+<div id = "sankey">
+<script type="module">
+    import define from "./parallel-sets/index_2.js";
+    import {Runtime, Library, Inspector} from "./parallel-sets/runtime_2.js";
+
+    const runtime = new Runtime();
+    const main = runtime.module(define, Inspector.into(document.body));
+</script>
+</div>
+
+</body>
+</html>
+
