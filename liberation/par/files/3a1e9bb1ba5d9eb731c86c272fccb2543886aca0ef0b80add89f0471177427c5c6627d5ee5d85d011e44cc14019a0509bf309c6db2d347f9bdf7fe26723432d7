@@ -1,0 +1,125 @@
+Name, year, region, value
+Armed,1970,Central America & Caribbean,2
+Armed,1970,North America,1
+Armed,1970,South America,3
+Armed,1980,Central America & Caribbean,2
+Armed,1980,South America,2
+Armed,1980,Southeast Asia,1
+Armed,1990,Central America & Caribbean,1
+Armed,1990,South America,1
+Armed,1990,Southeast Asia,1
+Armed,1990,Sub-Saharan Africa,3
+Armed,2000,Eastern Europe,1
+Armed,2000,Southeast Asia,1
+Armed,2000,Sub-Saharan Africa,1
+Armed,2010,Central America & Caribbean,1
+Armed,2010,South America,2
+Armed,2010,Sub-Saharan Africa,1
+Communist,1970,Southeast Asia,2
+Communist,1970,Western Europe,2
+Communist,1980,Central America & Caribbean,1
+Communist,1980,South Asia,1
+Communist,1980,Southeast Asia,2
+Communist,1980,Western Europe,1
+Communist,1990,Middle East & North Africa,1
+Communist,1990,South America,1
+Communist,1990,South Asia,6
+Communist,2000,South Asia,2
+Communist,2010,Middle East & North Africa,1
+Communist,2010,South Asia,6
+Islam,1990,Middle East & North Africa,6
+Islam,2000,Central Asia,1
+Islam,2000,East Asia,1
+Islam,2000,Middle East & North Africa,2
+Islam,2000,South Asia,1
+Islam,2010,Eastern Europe,1
+Islam,2010,Middle East & North Africa,18
+Islam,2010,South Asia,3
+Islam,2010,Southeast Asia,1
+Islam,2010,Sub-Saharan Africa,3
+Liberation,1970,Middle East & North Africa,3
+Liberation,1970,North America,5
+Liberation,1970,South America,2
+Liberation,1970,South Asia,1
+Liberation,1970,Southeast Asia,1
+Liberation,1970,Sub-Saharan Africa,1
+Liberation,1970,Western Europe,3
+Liberation,1980,Central America & Caribbean,3
+Liberation,1980,Middle East & North Africa,2
+Liberation,1980,North America,2
+Liberation,1980,South America,2
+Liberation,1980,South Asia,2
+Liberation,1980,Southeast Asia,1
+Liberation,1980,Sub-Saharan Africa,2
+Liberation,1980,Western Europe,5
+Liberation,1990,Australasia & Oceania,1
+Liberation,1990,Eastern Europe,2
+Liberation,1990,Middle East & North Africa,1
+Liberation,1990,North America,3
+Liberation,1990,South Asia,2
+Liberation,1990,Sub-Saharan Africa,2
+Liberation,1990,Western Europe,1
+Liberation,2000,Central Asia,1
+Liberation,2000,Eastern Europe,2
+Liberation,2000,North America,1
+Liberation,2000,South Asia,5
+Liberation,2000,Southeast Asia,1
+Liberation,2000,Sub-Saharan Africa,1
+Liberation,2010,Central Asia,1
+Liberation,2010,South Asia,12
+Liberation,2010,Southeast Asia,2
+Liberation,2010,Sub-Saharan Africa,6
+National,1970,Central America & Caribbean,2
+National,1970,North America,2
+National,1970,South America,2
+National,1970,Southeast Asia,1
+National,1970,Sub-Saharan Africa,1
+National,1970,Western Europe,3
+National,1980,Australasia & Oceania,1
+National,1980,Central America & Caribbean,1
+National,1980,South America,2
+National,1980,South Asia,2
+National,1980,Sub-Saharan Africa,1
+National,1990,Eastern Europe,1
+National,1990,South America,1
+National,1990,South Asia,2
+National,1990,Southeast Asia,1
+National,1990,Western Europe,2
+National,2000,South America,1
+National,2000,South Asia,5
+National,2000,Southeast Asia,1
+National,2000,Sub-Saharan Africa,2
+National,2010,South America,1
+National,2010,South Asia,9
+National,2010,Western Europe,1
+Peoples,1970,Central America & Caribbean,2
+Peoples,1970,Middle East & North Africa,1
+Peoples,1970,Southeast Asia,2
+Peoples,1970,Sub-Saharan Africa,2
+Peoples,1970,Western Europe,1
+Peoples,1980,Central America & Caribbean,3
+Peoples,1980,South Asia,1
+Peoples,1980,Sub-Saharan Africa,4
+Peoples,1990,Middle East & North Africa,1
+Peoples,2000,South Asia,1
+Peoples,2010,South America,1
+Peoples,2010,South Asia,3
+Peoples,2010,Southeast Asia,1
+Revolution,1970,North America,3
+Revolution,1970,South America,1
+Revolution,1970,Sub-Saharan Africa,2
+Revolution,1970,Western Europe,6
+Revolution,1980,Central America & Caribbean,2
+Revolution,1980,South America,3
+Revolution,1980,Western Europe,3
+Revolution,1990,Middle East & North Africa,1
+Revolution,1990,North America,3
+Revolution,1990,South America,1
+Revolution,1990,Sub-Saharan Africa,1
+Revolution,1990,Western Europe,1
+Revolution,2000,South Asia,1
+Revolution,2000,Western Europe,3
+Revolution,2010,Middle East & North Africa,1
+Revolution,2010,South America,1
+Revolution,2010,South Asia,2
+Revolution,2010,Sub-Saharan Africa,1
