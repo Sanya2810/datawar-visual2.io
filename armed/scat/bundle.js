@@ -85,9 +85,9 @@
       )
     ));
 
-  const width = 960;
+  const width = 1050;
   const height = 500;
-  const margin = { top: 20, right: 300, bottom: 65, left: 90 };
+  const margin = { top: 20, right: 350, bottom: 65, left: 90 };
   const xAxisLabelOffset = 50;
   const yAxisLabelOffset = 65;
   const fadeOpacity = 0.2;
@@ -130,7 +130,7 @@
 
     const colorScale = d3.scaleOrdinal()
       .domain(data.map(colorValue))
-      .range(['#41ab5d', '#dd3497', '#ec7014', '#1d91c0', '#dc57f5', '#e31a1c','#e7298a','#67001f','#df65b0','#993404']);
+      .range(['#41ab5d', '#dd3497', '#ec7014', '#1d91c0', '#dc57f5', '#e31a1c','#e7298a','#67001f','#af65b0','#993404','purple','teal','gray']);
 
     return (
       React$1__default.createElement( 'svg', { width: width, height: height },

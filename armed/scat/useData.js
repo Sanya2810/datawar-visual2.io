@@ -10,7 +10,7 @@ export const useData = () => {
   useEffect(() => {
     const row = d => {
       d.Days = +d.Days;
-      d.km = -d.km;
+      d.km = +d.km;
       return d;
     };
     csv(csvUrl, row).then(setData);

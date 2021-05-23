@@ -9,7 +9,7 @@ import { ColorLegend } from './ColorLegend';
 
 const width = 960;
 const height = 500;
-const margin = { top: 20, right: 200, bottom: 65, left: 90 };
+const margin = { top: 20, right: 200, bottom: 65, left: 100 };
 const xAxisLabelOffset = 50;
 const yAxisLabelOffset = 45;
 const fadeOpacity = 0.2;
@@ -52,7 +52,7 @@ const App = () => {
 
   const colorScale = scaleOrdinal()
     .domain(data.map(colorValue))
-    .range(['#FDE0dd', '#fcc5c0', '#8E6C8A','#1F9Z8A','blue','pink']);
+    .range(['#FDE0dd', '#fcc5c0', '#8E6C8A','#1F9Z8A','blue','pink','dark red', ]);
 
   return (
     <svg width={width} height={height}>

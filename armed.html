@@ -18,9 +18,30 @@
                 padding: 0;
                 font-family: 'Poppins', sans-serif;
             }
-            h1 {
-                margin: 0;
+            li {
+                margin:0;
                 padding: 0;
+                float: left;
+                margin-left: 15px;
+                display: block;
+            }
+            h1 {
+                margin: 20;
+                padding: 0;
+                width: 20;
+                margin-left: 30px;
+            }
+            h2 {
+                margin: 20;
+                padding: 0;
+                width: 20;
+                margin-left: 30px;
+            }
+            p1 {
+                margin: 20;
+                padding: 0;
+                width: 20;
+                margin-left: 30px;
             }
       pre {
         font-size: 5em;
@@ -42,21 +63,24 @@
     <script src="https://unpkg.com/d3@5.11.0/dist/d3.min.js"></script>
   </head>
   <body>
-    <header>
-      <nav>
-          <ul>
-            <li><a href = "index.html">"Islam"</a></li>
-            <li><a href = "armed.html">"Armed"</a></li>
-            <li><a href = "communist.html">"Communist"</a></li>
-            <li><a href = "liberation.html">"Liberation"</a></li>
-            <li><a href = "national.html">"National"</a></li>
-            <li><a href = "people.html">"People's"</a></li>
-            <li><a href = "rev.html">"Revolution"</a></li>
+    <nav>
+          <ul id="menu">
+            <li><a href = "index.html">Islam</a></li>
+            <li><a href = "armed.html">Armed</a></li>
+            <li><a href = "communist.html">Communist</a></li>
+            <li><a href = "liberation.html">Liberation</a></li>
+            <li><a href = "national.html">National</a></li>
+            <li><a href = "people.html">People's</a></li>
+            <li><a href = "rev.html">Revolution</a></li>
           </ul>
       </nav>
-      <h1>By Group Similarities: "Armed"</h1>
+    <header>
+      <h2>&nbsp;</h2>
+      <h1>By-Group Category: Armed</h1>
+      <p1>These are groups with the name: "Armed Forces.”
+      </p1>
+      <h2>Scatter Chart: Evolution of Group Activity</h2>
     </header>
-    <p1>Words</p1>
     <div id = "sankey">
     </div>
     <div id="root"></div>

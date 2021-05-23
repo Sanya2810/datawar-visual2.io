@@ -15,7 +15,7 @@ export default function define(runtime, observer) {
   main.variable(observer()).define(["md"], function(md){return(
 md`# Parallel Sets
 
-This section adapts the parallel set visualization of [Mike Bostock](https://observablehq.com/d/dde4715990f04109@246)`
+This section adapts the parallel set visualization of [Mike Bostock](https://observablehq.com/d/dde4715990f04109@246). `
   )
   });
 
@@ -23,7 +23,7 @@ This section adapts the parallel set visualization of [Mike Bostock](https://obs
   main.variable(observer("chart")).define("chart", ["d3","width","height","sankey","graph","color"], function(d3,width,height,sankey,graph,color)
 {
   const svg = d3.create("svg")
-      .attr("viewBox", [0, 0, width, (height+50)]);
+      .attr("viewBox", [-15, 0, width+150, (height+50)]);
 
 
   const {nodes, links} = sankey({
